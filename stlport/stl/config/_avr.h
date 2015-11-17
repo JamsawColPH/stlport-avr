@@ -31,6 +31,7 @@
 #define _STLP_NO_VENDOR_MATH_L // No long definitions in math.h
 #define _STLP_NO_VENDOR_STDLIB_L // No long definitions in stdlib.h
 #define _STLP_NO_WCHAR_T  1 // No wchar_t type defined
+#define _STLP_USE_NEWALLOC 1
 #define _STLP_USE_STATIC_LIB 1
 #define _STLP_USE_STDIO_IO 1
 
